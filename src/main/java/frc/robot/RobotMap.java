@@ -18,6 +18,12 @@ public class RobotMap {
   public static final int LEFT_BACK = 1;
   public static final int RIGHT_FRONT = 2;
   public static final int RIGHT_BACK = 3;
+public static final int ROLLER = 0;
+public static final int ROLLER_SOLENOID = 0;
+public static final int RIGHT_MASTER_ARM = 0;
+public static final int RIGHT_SLAVE_ARM = 0;
+public static final int LEFT_MASTER_ARM = 0;
+public static final int LEFT_SLAVE_ARM = 0;
   
   
 }
